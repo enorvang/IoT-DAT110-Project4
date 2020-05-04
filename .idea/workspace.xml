@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c5fbb3f-861f-418a-b1a8-0e1838f336a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dat110-project4-startcode-cloudservice/ACCloudService/ACCloudService.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dat110-project4-startcode-cloudservice/ACCloudService/ACCloudService.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat110-project4-startcode-cloudservice/ACCloudService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dat110-project4-startcode-cloudservice/ACCloudService/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dat110-project4-startcode-cloudservice" />
+  </component>
+  <component name="ProjectId" id="1aw8BhiW8738kQQdAqr2M3Nlu21" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dat110-project4-startcode-cloudservice" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.ac.restservice.App" />
+      <module name="ACCloudService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.ac.restservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.aciotdevice.main.Main" />
+      <module name="ACIoTDevice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.aciotdevice.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Espen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c5fbb3f-861f-418a-b1a8-0e1838f336a3" name="Default Changelist" comment="" />
+      <created>1587635161825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587635161825</updated>
+      <workItem from="1587635166186" duration="5622000" />
+      <workItem from="1588154464473" duration="11135000" />
+      <workItem from="1588171556293" duration="1698000" />
+      <workItem from="1588200277894" duration="735000" />
+      <workItem from="1588244756118" duration="2193000" />
+      <workItem from="1588348147986" duration="665000" />
+      <workItem from="1588576651485" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/dat110-project4-startcode-iotdevice" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1587661691957">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1587661691957" />
+    <state x="456" y="209" key="FileChooserDialogImpl" timestamp="1588166554276">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="456" y="209" key="FileChooserDialogImpl/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588166554276" />
+    <state width="1493" height="144" key="GridCell.Tab.0.bottom" timestamp="1588246951009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588162185992" />
+    <state width="1493" height="144" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588246951009" />
+    <state width="1877" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588167788848" />
+    <state width="1493" height="144" key="GridCell.Tab.0.center" timestamp="1588246951008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588162185992" />
+    <state width="1493" height="144" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588246951008" />
+    <state width="1877" height="210" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588167788848" />
+    <state width="1493" height="144" key="GridCell.Tab.0.left" timestamp="1588246951008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588162185991" />
+    <state width="1493" height="144" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588246951008" />
+    <state width="1877" height="210" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588167788848" />
+    <state width="1493" height="144" key="GridCell.Tab.0.right" timestamp="1588246951009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588162185992" />
+    <state width="1493" height="144" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588246951009" />
+    <state width="1877" height="210" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588167788848" />
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1588161765705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588161765705" />
+    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1588161765705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588161765705" />
+    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1588161765704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588161765704" />
+    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1588161765705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588161765705" />
+    <state x="715" y="147" key="SettingsEditor" timestamp="1588173171438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="186" y="110" key="SettingsEditor/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588166559404" />
+    <state x="368" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587635305408" />
+    <state x="715" y="147" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588173171438" />
+    <state x="1245" y="482" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588173130996">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="996" y="382" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824/1920.6.1920.1040@0.0.1536.824" timestamp="1588155042796" />
+    <state x="996" y="382" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1587635338352" />
+    <state x="1245" y="482" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1588173130996" />
+  </component>
+</project>

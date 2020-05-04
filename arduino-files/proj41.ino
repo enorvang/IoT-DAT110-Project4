@@ -6,7 +6,6 @@ int button1Pin = 7;
 int button2Pin = 6;
 int pirPin = 2;
 
-//0 = button1, 1 = button2
 int correctSequence[] = {1, 2};
 int firstpressed = 0;
 int secondpressed = 0;
